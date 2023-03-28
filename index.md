@@ -64,7 +64,7 @@ Jsi propojen se svým manželem. Pokud tvůj manžel zemře, zemřeš také. Pok
 ## Víla (+)
 Máš 2 životy. Pokud jsi však odhlasován ve dne, zemřeš.
 ## Starosta (+)
-Při hlasování se tvůj hlas počítá za dva. Pokud není potřeba *starosty* pro rozhodnutí výsledku hlasování, zůstane jeho rozhodnutí utajeno.
+Při hlasování se tvůj hlas počítá za dva.
 
 ## Ditto (/)
 Jsi neutrální hráč.  
