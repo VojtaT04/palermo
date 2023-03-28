@@ -72,35 +72,35 @@ Poprvé, když jsi vybrán hráčem jako cíl jeho schopnosti, přidáváš se d
 
 # Počty postav
 Hra je určena pro 4 a více hráčů. V tabujce níže lze najít přesné složení postav v závislosti na počtu hráčů. Při hře 7 hráčů je odstraněna *Red Lady* a je nahrazena *manželi*.
-| Počet hráčů | Přidaná postava |
-| ----------- | ----------- |
-| *1* | Vrah |
-| *2* | Ochránce |
-| *3* | Aura Seer |
-| 4 | Úchyl |
-| 5 | Red Lady |
-| 6 | Bounty Hunter |
-| 7 | ~~Red Lady~~, Manžel/ka |
-| 8 | *Red lady* |
-| 9 | Vrah |
-| 10 | Starosta |
-| 11 | Terorista |
-| 12 | Tunelář |
-| 13 | Impostor |
-| 14 | Detektiv |
-| 15 | Vrah terorista |
-| 16 | Tělocvikář |
-| 17 | Myslivec |
-| 18 | Amor |
-| 19 | Zrcadlo |
-| 20 | Víla |
-| 21 | Vrah |
-| 22 | Novinář |
-| 23 | Střelec |
-| 24 | Vůdce sekty |
-| 25 | Úchyl |
-| 26 | Ochránce |
-| 27 | Vrah |
-| 28 | Red Lady |
-| 29 | Tělocvikář |
+| Počet hráčů | Přidaná postava |  
+| ----------- | ----------- |  
+| *1* | Vrah |  
+| *2* | Ochránce |  
+| *3* | Aura Seer |  
+| 4 | Úchyl |  
+| 5 | Red Lady |  
+| 6 | Bounty Hunter |  
+| 7 | ~~Red Lady~~, Manžel/ka |  
+| 8 | *Red lady* |  
+| 9 | Vrah |  
+| 10 | Starosta |  
+| 11 | Terorista |  
+| 12 | Tunelář |  
+| 13 | Impostor |  
+| 14 | Detektiv |  
+| 15 | Vrah terorista |  
+| 16 | Tělocvikář |  
+| 17 | Myslivec |  
+| 18 | Amor |  
+| 19 | Zrcadlo |  
+| 20 | Víla |  
+| 21 | Vrah |  
+| 22 | Novinář |  
+| 23 | Střelec |  
+| 24 | Vůdce sekty |  
+| 25 | Úchyl |  
+| 26 | Ochránce |  
+| 27 | Vrah |  
+| 28 | Red Lady |  
+| 29 | Tělocvikář |  
 | 30 | Ditto |
