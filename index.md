@@ -10,7 +10,7 @@ V noci: Vyberte si jednoho hráče a zabijte ho.
 *Vrah atentátník*: Ve dne zabij jakéhokoliv hráče. Umíráš také.  
 
 ## Impostor (0)
-Vyhráváš pokud zůstaneš poslední ve hře.  
+Vyhráváš pokud zůstaneš poslední ve hře. Sám nesmíš být zabit vrahy.  
 V noci: Vyber si jednoho hráče a zabij ho.  
 
 ## Vůdce sekty (0)
@@ -39,15 +39,15 @@ V noci (třikrát za hru): Podívej se na roli libovolného mrtvého hráče.
 V noci: Vyber si jednoho hráče. Zbav ho do konce dne jedné části těla.  
 Jazyk: Vybraný hráč nesmí během dne mluvit.
 Ruka: Vybraný hráč nesmí během dne hlasovat.
-Oči: Vybraný hráč hraje během dne poslepu.
-Přirození: Pokud je vybraný hráč *milenec* nebo *manžel/ka*, přestává být propojen se svým partnerem (do konce hry).
+Oči: Vybraný hráč hraje během dne poslepu.  
+Přirození: Pokud je vybraný hráč *milenec* nebo *manžel/ka*, přestávají se přenášet efekty mezi ním a jeho partnerem (do konce hry).
 ## Tělocvikář (+)
 V noci: Vyber si jednoho hráče. Vybraný hráč ráno po probuzení musí udělat 10 cviků tvého výběru (dřepy, kliky, sed-lehy).
 
 ## Ochránce (+)
 V noci: Vyber si jednoho hráče. Vybraný hráč nemůže v noci přijít o život. Nesmíš vybrat stejného hráče dvakrát za sebou.
 ## Myslivec (+)
-V noci: Pokud nemáš nastraženou past, můžeš si vybrat jednoho hráče. Nastraž u něj past. Pokud *vrah* nebo *Bounty Hunter* navštíví příští noc vybraného hráče, past se aktivuje a zabije jednoho z 
+V noci: Pokud nemáš nastraženou past, můžeš si vybrat jednoho hráče. Nastraž u něj past. Pokud *vrah* nebo *Impostor* navštíví příští noc vybraného hráče, past se aktivuje a zabije jednoho z tvých vrahů namísto tebe. Na konci kola past zmizí nehledě na to, jestli byla aktivována.
 ## Zrcadlo (+)
 V noci (dvakrát za hru): Pokud se v noci staneš cílem efektu, cílem tohoto efektu se stává jeho autor. (V případě, že efekt vysílalo více hráčů, je vybrán náhodný z nich.)
 ## Tunelář (+)
@@ -68,9 +68,10 @@ Při hlasování se tvůj hlas počítá za dva. Pokud není potřeba *starosty*
 
 ## Ditto (/)
 Jsi neutrální hráč.  
-Poprvé, když jsi vybrán hráčem jako cíl jeho schopnosti, přidáváš se do jeho týmu. Pokud jsi měl zemřít, přežíváš.
+Poprvé, když jsi vybrán hráčem jako cíl jeho schopnosti, přidáváš se do jeho týmu. Pokud jsi měl zemřít, přežíváš a získáváš schopnost zabíjet.
 
 # Počty postav
+Hra je určena pro 4 a více hráčů. V tabujce níže lze najít přesné složení postav v závislosti na počtu hráčů. Při hře 7 hráčů je odstraněna *Red Lady* a je nahrazena *manželi*.
 | Počet hráčů | Přidaná postava |
 | ----------- | ----------- |
 | *1* | Vrah |
