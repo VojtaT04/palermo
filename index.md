@@ -49,7 +49,7 @@ V noci: Vyber si jednoho hráče. Vybraný hráč nemůže v noci přijít o ži
 ## Myslivec (+)
 V noci: Pokud nemáš nastraženou past, můžeš si vybrat jednoho hráče. Nastraž u něj past. Pokud *vrah* nebo *Impostor* navštíví příští noc vybraného hráče, past se aktivuje a zabije jednoho z tvých vrahů namísto tebe. Na konci kola past zmizí nehledě na to, jestli byla aktivována.
 ## Zrcadlo (+)
-V noci (dvakrát za hru): Pokud se v noci staneš cílem efektu, cílem tohoto efektu se stává jeho autor. (V případě, že efekt vysílalo více hráčů, je vybrán náhodný z nich.)
+V noci (dvakrát za hru): Pokud se v noci staneš cílem jednoho, nebo více efektů, cílem tohoto efektu se stává jeho autor. (V případě, že efekt vysílalo více hráčů, je vybrán náhodný z nich.)
 ## Tunelář (+)
 V noci: Vyber si 2 hráče. Efekty cílené na jednoho z nich se namísto toho uplatní na druhého.
 
