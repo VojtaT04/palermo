@@ -71,7 +71,7 @@ Jsi neutrální hráč.
 Poprvé, když jsi vybrán hráčem jako cíl jeho schopnosti, přidáváš se do jeho týmu. Pokud jsi měl zemřít, přežíváš a získáváš schopnost zabíjet.
 
 # Počty postav
-Hra je určena pro 4 a více hráčů. V tabujce níže lze najít přesné složení postav v závislosti na počtu hráčů. Při hře 7 hráčů je odstraněna *Red Lady* a je nahrazena *manželi*.
+Hra je určena pro 4 a více hráčů. V tabujce níže lze najít přesné složení postav v závislosti na počtu hráčů. Při hře 7 hráčů je odstraněna *Red Lady* a je nahrazena *manželi*.  
 | Počet hráčů | Přidaná postava |  
 | ----------- | ----------- |  
 | *1* | Vrah |  
