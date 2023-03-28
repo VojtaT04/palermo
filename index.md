@@ -10,7 +10,7 @@ V noci: Vyberte si jednoho hráče a zabijte ho.
 *Vrah atentátník*: Ve dne zabij jakéhokoliv hráče. Umíráš také.  
 
 ## Impostor (0)
-Vyhráváš pokud zůstaneš poslední ve hře. Sám nesmíš být zabit vrahy.  
+Vyhráváš pokud zůstaneš poslední ve hře. Sám nemůžeš být zabit vrahy.  
 V noci: Vyber si jednoho hráče a zabij ho.  
 
 ## Vůdce sekty (0)
