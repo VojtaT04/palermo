@@ -38,7 +38,7 @@ V noci (třikrát za hru): Podívej se na roli libovolného mrtvého hráče.
 ## Úchyl (+)
 V noci: Vyber si jednoho hráče. Zbav ho do konce dne jedné části těla.  
 Jazyk: Vybraný hráč nesmí během dne mluvit.
-Ruka: Vybraný hráč nesmí během dne hlasovat.
+Ruka: Vybraný hráč nesmí během dne hlasovat.  
 Oči: Vybraný hráč hraje během dne poslepu.  
 Přirození: Pokud je vybraný hráč *milenec* nebo *manžel/ka*, přestávají se přenášet efekty mezi ním a jeho partnerem (do konce hry).
 ## Tělocvikář (+)
